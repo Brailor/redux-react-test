@@ -1,0 +1,9 @@
+.table-wrapper{
+    margin-bottom: 20px;
+}
+.tablelist-item{
+    cursor: pointer;
+}
+.tablelist-item:hover{
+    background-color: rgb(197, 194, 194);
+}
